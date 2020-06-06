@@ -1,5 +1,5 @@
-# Projeto resultante da NLW #01
-
+# Ecoleta
+Projeto resultante da NLW #01
 
 ## Técnologias utilizadas
 * Node.js
